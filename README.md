@@ -7,7 +7,7 @@ Plotting-ready data and a notebook for the main-text and supplementary manuscrip
 - `plotting.ipynb`: loads the bundled data and generates all 25 figure outputs.
 - `*.nc`: 22 NetCDF files with variable names, units, coordinates and projection information.
 - `curves.xlsx`: 11 sheets of curve data, with units in the column headers.
-- `plottings/`: 25 exported SVGs, including Fig3a and the red–blue FigS4 maps.
+- `plottings/`: 25 exported SVGs. 
 - `README.txt`: detailed data conventions, units and figure coverage.
 - `requirements.txt`: Python packages used by the notebook and JupyterLab.
 
