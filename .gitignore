@@ -1,0 +1,10 @@
+# Local system and runtime files
+.DS_Store
+._*
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*

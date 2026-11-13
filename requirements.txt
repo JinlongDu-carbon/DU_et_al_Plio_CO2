@@ -1,0 +1,9 @@
+numpy
+pandas
+openpyxl
+scipy
+xarray
+matplotlib
+basemap
+cmocean
+jupyterlab
