@@ -39,6 +39,3 @@ Set `EXPORT_SVG = False` to display figures without writing image files. With ex
 enabled, re-running replaces the corresponding SVGs in `plottings/`. Text remains
 editable, and existing multi-panel layouts stay together. Fig1a, Fig1c and Fig1d
 are exported together as `Fig1a_1c_1d.svg`.
-
-Figure S1 is excluded. Figure S2 has no plotting block in this collection. Other
-figure numbers are retained.
